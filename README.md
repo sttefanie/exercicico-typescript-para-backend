@@ -5,7 +5,7 @@ Após realizar o download do projeto, instale as dependências necessárias exec
 ```bash
 npm install
 
-
+```
 
 Verificação do NodeJS
 Caso já tenha realizado algum curso de JavaScript para back-end, o NodeJS pode já estar instalado em sua máquina. Para confirmar, siga os passos abaixo:
@@ -18,11 +18,11 @@ Linux (Ubuntu): Acesse o Terminal disponível no menu de Programas/Aplicações.
 No terminal, digite:
 
 bash
-Copiar código
+```
 node --version
+```
 ou
 
-bash
 Copiar código
 node -v
 Se o comando retornar um número de versão, por exemplo v16.17.0, isso significa que o NodeJS está instalado. Este curso foi desenvolvido utilizando a versão 18.15.0.

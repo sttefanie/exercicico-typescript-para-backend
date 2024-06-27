@@ -1,5 +1,5 @@
 import express from "express";
-import petRouter from "./petRouter"
+import petRouter from "../routes/petRouter"
 
 
 const router = (app: express.Router) => {
